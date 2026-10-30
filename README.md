@@ -1,7 +1,9 @@
 SOURCE CODE
 
 import java.util.ArrayDeque;
+
 import java.util.Deque;
+
 import java.util.Scanner;
 
 public class DelimiterChecker {
@@ -77,8 +79,11 @@ public class DelimiterChecker {
 MODIFIED CODE
 
 import java.util.ArrayDeque;
+
 import java.util.Deque;
+
 import java.util.Iterator;
+
 import java.util.Scanner;
 
 public class DelimiterCheckerTrace {
